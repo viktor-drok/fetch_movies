@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetch_movies/static/css/main.750079a2.css",
+    "main.js": "/fetch_movies/static/js/main.1083fb0b.js",
+    "index.html": "/fetch_movies/index.html",
+    "main.750079a2.css.map": "/fetch_movies/static/css/main.750079a2.css.map",
+    "main.1083fb0b.js.map": "/fetch_movies/static/js/main.1083fb0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.750079a2.css",
+    "static/js/main.1083fb0b.js"
+  ]
+}
