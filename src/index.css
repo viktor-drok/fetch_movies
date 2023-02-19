@@ -1,0 +1,16 @@
+.carousel-caption {
+  background: #a0a0a073;
+  width: 100%;
+}
+
+.image {
+  height: 100vh;
+  margin: 0 auto;
+  display: block;
+}
+
+a {
+  text-decoration: none !important;
+  color: rgb(34, 48, 34) !important;
+  margin-right: 50px;
+}
