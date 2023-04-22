@@ -14,3 +14,7 @@ a {
   color: rgb(34, 48, 34) !important;
   margin-right: 50px;
 }
+
+body {
+  overflow-y: overlay;
+}
